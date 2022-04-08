@@ -1,5 +1,6 @@
-div {
+.header-logo, .header-title, .header-subtext, .header-topbar {
     background-color: #1F2937;
+    font-family: "Roboto", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 .header-logo {
     font-size: 24px;
